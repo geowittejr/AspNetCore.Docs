@@ -10,3 +10,4 @@ Issues for learn.microsoft.com can be opened at [github.com/MicrosoftDocs/feedba
 
 ## My Notes
 * You can open the folder in Visual Studio to browse the various files, but if you want to debug a specific sample, you can open the project in a new instance of Visual Studio.
+* The file uploads section can be found in the MVC/Models folder.
