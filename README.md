@@ -7,3 +7,6 @@ API documentation changes are made in the [`dotnet/AspNetApiDocs` GitHub reposit
 ASP.NET 4.x documentation changes are made in the [`dotnet/AspNetDocs` GitHub repository](https://github.com/dotnet/AspNetDocs).
 
 Issues for learn.microsoft.com can be opened at [github.com/MicrosoftDocs/feedback](https://github.com/MicrosoftDocs/feedback)
+
+## My Notes
+* You can open the folder in Visual Studio to browse the various files, but if you want to debug a specific sample, you can open the project in a new instance of Visual Studio.
